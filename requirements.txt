@@ -1,6 +1,6 @@
 absl-py==2.3.0
 aiohappyeyeballs==2.6.1
-aiohttp==3.12.9
+aiohttp==3.12.14
 aiosignal==1.3.2
 annotated-types==0.7.0
 anyio==4.9.0
@@ -87,7 +87,7 @@ opt_einsum==3.4.0
 optree==0.16.0
 packaging==25.0
 pandas==2.3.0
-pillow==11.2.1
+pillow==11.3.0
 platformdirs==4.3.8
 propcache==0.3.1
 protobuf==5.29.5
@@ -107,7 +107,7 @@ PyYAML==6.0.2
 ray==2.46.0
 referencing==0.36.2
 regex==2024.11.6
-requests==2.32.3
+requests==2.32.4
 rich==14.0.0
 rpds-py==0.25.1
 ruamel.yaml==0.18.13
@@ -121,7 +121,7 @@ six==1.17.0
 smmap==5.0.2
 sniffio==1.3.1
 sse-starlette==2.3.6
-starlette==0.47.0
+starlette==0.47.2
 sympy==1.13.1
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
@@ -131,18 +131,18 @@ tensorflow-probability==0.25.0
 termcolor==3.1.0
 tf_keras==2.19.0
 tokenizers==0.21.1
-torch==2.6.0+cu124
+torch==2.8.0
 torchaudio==2.6.0+cu124
 torchmetrics==1.7.2
 torchvision==0.21.0+cu124
 tqdm==4.67.1
-transformers==4.52.4
+transformers==4.53.0
 triton==3.1.0
 types-requests==2.32.0.20250602
 typing-inspection==0.4.1
 typing_extensions==4.14.0
 tzdata==2025.2
-urllib3==2.4.0
+urllib3==2.5.0
 uvicorn==0.34.3
 wandb==0.20.1
 Werkzeug==3.1.3
